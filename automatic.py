@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from netmiko import ConnectHandler
 
 def connect_to_mikrotik(list):
